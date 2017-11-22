@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Offers</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Custom Theme files -->
+<link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/style.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/font-awesome.css" rel="stylesheet"> <!-- font-awesome icons -->
+<!-- //Custom Theme files -->
+<!-- js -->
+<script src="js/jquery-2.2.3.min.js"></script>
+<!-- //js -->
+<!-- web-fonts -->
+<link href="http://fonts.googleapis.com/css?family=Berkshire+Swash" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Yantramanav:100,300,400,500,700,900" rel="stylesheet">
+<!-- //web-fonts -->
+</head>
+<body>
+	<!-- banner -->
+	<div class="banner about-w3bnr">
+		<!-- header -->
+		<div class="header">
+			<div class="w3ls-header"><!-- header-one -->
+				<div class="container">
+					<div class="w3ls-header-left">
+
+					</div>
+					<div class="w3ls-header-right">
+						<ul>
+							<li class="head-dpdn">
+								<i class="fa fa-phone" aria-hidden="true">Call us:+012269613354</i>
+							</li>
+					
+
+
+						</ul>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+			<!-- //header-one -->
+			<!-- navigation -->
+			<div class="navigation agiletop-nav">
+				<div class="container">
+					<nav class="navbar navbar-default">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header w3l_logo">
+							<button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<h1><a href="..\..\login.html">Seeker<span>Best Food Recommendation</span></a></h1>
+						</div>
+						<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+							<ul class="nav navbar-nav navbar-right">
+								<li><a href="..\..\index3.html">Home</a></li>
+								<!-- Mega Menu -->
+								<li class="dropdown">
+									
+									<ul class="dropdown-menu multi-column columns-3">
+										<div class="row">
+											<div class="col-sm-4">
+												<ul class="multi-column-dropdown">
+													<h6>Cuisine</h6>
+													<li><a href="..\..\menu.html">Chinese Recipes</a></li>
+													<li><a href="..\..\menu.html">Turkey Recipes</a></li>
+													<li><a href="..\..\menu.html">French Recipes</a></li>
+													<li><a href="..\..\menu.html">Italian Recipes</a></li>
+												</ul>
+											<div class="clearfix"></div>
+										</div>
+									</ul>
+								</li>
+						</div>
+					</nav>
+				</div>
+			</div>
+			<!-- //navigation -->
+		</div>
+		<!-- //header-end -->
+		<!-- banner-text -->
+		<div class="banner-text">
+			<div class="container">
+				<h2>Delicious food from the world<br> <span>Best recommendations For you.</span></h2>
+			</div>
+		</div>
+	</div>
+	<!-- //banner -->
+	<!-- breadcrumb -->
+	<div class="container">
+		<ol class="breadcrumb w3l-crumbs">
+			<li><a href="..\..\index3.html"><i class="fa fa-home"></i> Home</a></li>
+			<li class="active">Offers</li>
+		</ol>
+	</div>
+	<!-- //breadcrumb -->
+	<!-- offers-page -->
+	<div class="offers about">
+		<div class="container">
+			<h3 class="w3ls-title w3ls-title1">The Keg</h3>
+			<div class="offers-wthreerow">
+				<div class="offers-right">
+					<h5>15% Discount</h5>
+					<p class="w3ls-offertext">Order Using Credit Card Get 13% Cashback</p>
+					<br>
+					<h5>6% Discount</h5>
+					<p>The best Food Offer On Our Store</p>
+				</div>
+			</div>
+			<div class="offers-wthreerow2">
+				<div class="add-products-row">
+					<div class="w3ls-add-grids">
+						<a href="4.html">
+							<h4>Get <span>Best<br>French food</span></h4>
+							<h5>Call us:5199693146</h5>
+							<h6>Order Now <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></h6>
+						</a>
+					</div>
+					<div class="w3ls-add-grids w3ls-add-grids-right">
+						<a href="4.html">
+							<h4>OUR<span><br>Address</span></h4>
+							<h5>490 Division Rd, Windsor, ON N9A 6K7</h5>
+							<h6>Check Now <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></h6>
+						</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //offers-page -->
+	<!-- subscribe -->
+	<div class="subscribe agileits-w3layouts">
+		<div class="container">
+			<div class="col-md-6 social-icons w3-agile-icons">
+				<h4>Keep in touch</h4>
+				<ul>
+					<li><a href="#" class="fa fa-facebook icon facebook"> </a></li>
+					<li><a href="#" class="fa fa-twitter icon twitter"> </a></li>
+					<li><a href="#" class="fa fa-google-plus icon googleplus"> </a></li>
+					<li><a href="#" class="fa fa-dribbble icon dribbble"> </a></li>
+					<li><a href="#" class="fa fa-rss icon rss"> </a></li>
+				</ul>
+			</div>
+			<div class="col-md-6 subscribe-right">
+				<h3 class="w3ls-title">Rate to the <br><span>restaurant</span></h3>
+				<form name="rate" action="../../rate.php" method="POST">
+				  <input type='hidden' name='name2' value='24'> 
+				     <select id="ratecafe" name="ratecafe" required="">
+						<option value="">How  you rate this restaurant?</option>
+						<option value="excellence">Excellence</option>
+						<option value="good">Good</option>
+						<option value="normal">Normal</option>
+						<option value="notgood">Not good</option>
+					  </select>
+					<input type="submit" value="Subscribe">
+					<div class="clearfix"> </div>
+				</form>
+				<img src="images/i1.png" class="sub-w3lsimg" alt=""/>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+	<!-- //subscribe -->
+	<!-- footer -->
+
+</body>
+</html>
