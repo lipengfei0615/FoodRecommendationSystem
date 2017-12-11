@@ -1,4 +1,4 @@
-# FoodRecommendationSystem
+# Food Recommendation System
 
 Food Recommendation System is a complete website system which can give users proper recommendation results based on user's personal preferences and searching history.
 
